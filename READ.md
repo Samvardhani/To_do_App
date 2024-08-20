@@ -1,4 +1,4 @@
-📝 To-Do App
+ 📝 To-Do App
 Welcome to the To-Do App! This application helps you organize your tasks, prioritize your to-dos, and stay on top of your goals.
 
 ✨ Features
